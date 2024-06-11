@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-          <img src={ME} alt="About Image" />
+          <img src={ME} alt="About " />
         </div>
         </div>
 
@@ -35,13 +35,13 @@ const About = () => {
             <article className='about__card'>
               <RiFolder6Line  className='about__icon'/>
               <h5>Projects</h5>
-              <small>5 Fullstack Projects</small>
+              <small>1 Fullstack Project & few smallprojects</small>
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Itaque quaerat corrupti architecto, quis non qui temporibus consequatur pariatur eos nihil reiciendis perferendis nam delectus enim consequuntur.
-             Ipsam excepturi sed suscipit!</p>
+          <p>As a passionate and dedicated Full Stack Developer, I specialize in crafting dynamic, high-performance web applications that deliver seamless user experiences.
+             With expertise in both front-end and back-end technologies, I bring a comprehensive approach to development, ensuring robust, scalable, and efficient solutions.
+             My commitment to staying versed of the latest industry trends and my collaborative spirit make me a valuable asset to any development team.</p>
 
              <a href="contact" className='btn btn-primary'>Let's Talk</a>
         </div>

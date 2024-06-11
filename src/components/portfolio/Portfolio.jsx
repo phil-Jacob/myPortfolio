@@ -1,9 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/socialmedia.png'
-import IMG2 from '../../assets/dice.png'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/project1.png'
+import IMG2 from '../../assets/project2.png'
+import IMG3 from '../../assets/project3.png'
 
 const data = [
   {
@@ -23,18 +22,10 @@ const data = [
   {
     id:3,
     image: IMG3,
-    title: 'tile3',
-    github: 'https://github.com/phil-Jacob',
+    title: 'Portfolio',
+    github: 'https://github.com/phil-Jacob/myPortfolio',
     demo: 'https://app.netlify.com/teams/jasonjoe777/overview',
   },
-  {
-    id:4,
-    image: IMG4,
-    title: 'tile4',
-    github: 'https://github.com/phil-Jacob',
-    demo: 'https://app.netlify.com/teams/jasonjoe777/overview',
-  },
-
 ]
 
 
