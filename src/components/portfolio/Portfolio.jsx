@@ -24,7 +24,7 @@ const data = [
     image: IMG3,
     title: 'Portfolio',
     github: 'https://github.com/phil-Jacob/myPortfolio',
-    demo: 'https://app.netlify.com/teams/jasonjoe777/overview',
+    demo: 'https://creative-pavlova-882b6a.netlify.app',
   },
 ]
 

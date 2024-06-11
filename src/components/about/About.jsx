@@ -43,7 +43,6 @@ const About = () => {
              With expertise in both front-end and back-end technologies, I bring a comprehensive approach to development, ensuring robust, scalable, and efficient solutions.
              My commitment to staying versed of the latest industry trends and my collaborative spirit make me a valuable asset to any development team.</p>
 
-             <a href="contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
