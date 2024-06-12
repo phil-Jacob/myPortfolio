@@ -3,5 +3,8 @@
         "arte",
         "smallprojects",
         "Socialmedia"
+    ],
+    "cSpell.ignoreWords": [
+        "SiLeetcode"
     ]
 }

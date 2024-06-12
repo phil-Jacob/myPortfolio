@@ -6,9 +6,9 @@ import { SiLeetcode } from "react-icons/si";
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-        <a href="https://in.linkedin.com" rel="noreferrer" target='_blank'><BsLinkedin /></a>
-        <a href="https://github.com/login" rel="noreferrer" target='_blank'><FaGithub /></a>
-        <a href="https://leetcode.com" rel="noreferrer" target='_blank'><SiLeetcode /></a>
+        <a href="https://www.linkedin.com/in/phil-jacob-a-691b51204/" rel="noreferrer" target='_blank'><BsLinkedin /></a>
+        <a href="https://github.com/phil-Jacob?tab=repositories" rel="noreferrer" target='_blank'><FaGithub /></a>
+        <a href="https://leetcode.com/u/Phil_Jacob/" rel="noreferrer" target='_blank'><SiLeetcode /></a>
         </div>
   )
 }
