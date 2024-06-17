@@ -42,7 +42,7 @@ const Contact = () => {
           <IoMailOpenOutline className='contact__option-icon' />
             <h4>Email</h4>
             <h5>jack.joe1817@gmail.com</h5>
-            <a href="mailto:dummyuser@gmail.com" target='_blank' rel='noreferrer'>Send a message</a>
+            <a href="mailto:jack.joe1817@gmail.com" target='_blank' rel='noreferrer'>Send a message</a>
           </article>
           <article className='contact__option'>
           <FaWhatsapp e className='contact__option-icon' />
